@@ -7,7 +7,7 @@
 # Table of contents  
 1. [Tech Stack](#Stack) 
 2. [Features](#Features)
-3. 
+3. [Config](#Config)
 4. [Run Locally](#run)
 5. [Feedback](#Feedback)
 6. [License](#License)
@@ -26,7 +26,7 @@
 - Export chats from account
 - Send files for user
 </div>
-<div id="run">
+<div id="Config">
 
 ## Config
 
@@ -43,9 +43,8 @@ APP_HASH = r"f2c3bbd38a2a6fb7788c8e12f9b382a"
 * `TOKEN` must be obtained from Telegram. [Bot Father](https://telegram.me/BotFather);
 
 * `APP_ID` and `APP_HASH` must be obtained from Telegram. [Telegram App](https://core.telegram.org/api/obtaining_api_id#obtaining-api-id;)
-
-
-
+</div>
+<div id="run">
 
 ## Run Locally  
 
@@ -78,7 +77,7 @@ python main.py
 
 ## Feedback
 
-If you have any feedback, please reach out to us at vladimyr.kilko@gmail.com
+If you have any feedback, please reach out to us at [vladimyr.kilko@gmail.com](mailto:vladimyr.kilko@gmail.com)
 </div>
 <div id="License">
 
