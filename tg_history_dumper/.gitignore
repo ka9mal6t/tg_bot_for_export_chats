@@ -1,0 +1,5 @@
+/debug.log
+/error.log
+/config*.json
+/*.session
+/history*/
